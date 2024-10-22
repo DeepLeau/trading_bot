@@ -21,7 +21,7 @@ Before running the project locally, ensure you have the following installed:
 
 ### 1. Clone the repository
 ```bash
-git clone (https://github.com/DeepLeau/finance)
+git clone https://github.com/DeepLeau/finance
 cd finance_project
 ```
 
